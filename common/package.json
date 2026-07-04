@@ -1,5 +1,5 @@
 {
-  "name": "@ankur1357/medium-common1",
+  "name": "@inkflow/common",
   "version": "1.0.1",
   "main": "dist/index.js",
   "scripts": {
