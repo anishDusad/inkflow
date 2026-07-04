@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@ankur1357/medium-common1": "^1.0.1",
+    "@inkflow/common": "file:../common",
     "@tailwindcss/postcss": "^4.0.14",
     "@tailwindcss/vite": "^4.0.14",
     "axios": "^1.8.3",

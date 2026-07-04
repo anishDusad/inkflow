@@ -1,4 +1,4 @@
-import { signupInput } from "@ankur1357/medium-common1";
+import { signupInput } from "@inkflow/common";
 import { ChangeEvent, useState } from "react";
 import { Link,useNavigate } from "react-router-dom";
 import { BACKEND_URL } from "../config";
